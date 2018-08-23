@@ -142,7 +142,6 @@ Economic and financial stability of the photovoltaic business model shown below:
 
 CryptoSolarTech photovoltaic park
 
-CHARACTERISTICS OF THE PARK
 **Nominal power**| |**45**| | |**MW**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:
  | | | | | 
@@ -166,4 +165,3 @@ Installed potency| |54,000,000| | |
 Decrease in yield| |0.93%| |annual| 
  | | | | | 
 Availability| |98.00%| | | 
-
