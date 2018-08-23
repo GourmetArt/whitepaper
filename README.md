@@ -135,3 +135,35 @@ In this section we will analyze the specific strengths, weaknesses, opportunitie
 | T2    |Changes in Regulation|Legal Plan|Legal team updating legislation modifications.|
 | T3    |Cryptocurrency Market Volatility| Trading System| Trading system ready to foresee or predict market drops.|
 | T4    |Administrative restrictions in the links to distribution companies|Legal Team| Legal team able to perform tasks to obtain authorizations.|
+
+### 3.2 BUSINESS MODEL
+
+Economic and financial stability of the photovoltaic business model shown below:
+
+CryptoSolarTech photovoltaic park
+
+CHARACTERISTICS OF THE PARK
+**Nominal power**| |**45**| | |**MW**
+:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
+ | | | | | 
+Installed potency| |54,000,000| | |Wp
+ | | | | | 
+Hours of annual irradiction| |2,16| | |hours / year
+ | | | | | 
+ | | | | | 
+Gross annual production| |116,640,000| | |Kwh / year
+ | | | | | 
+Net annual production| |113,164,128| | |Kw / year
+ | | | | | 
+ | | | | | 
+DATA PROJECTION| | | | | 
+ | | | | | 
+Annual premium increase IPC| |0.00%| | | 
+ | | | | | 
+Installed potency| |54,000,000| | | 
+ | | | | | 
+ | | | | | 
+Decrease in yield| |0.93%| |annual| 
+ | | | | | 
+Availability| |98.00%| | | 
+
