@@ -110,7 +110,7 @@ In this section we will analyze the specific strengths, weaknesses, opportunitie
 
 | SWOT        |             | MCEF  |            |
 | ------------- |:-------------:| -----:|:-------------:|
-| ** Strengths      |  | Maintain  ** |  |
+| Strengths      |  | Maintain  |  |
 | S1    | Multidisciplinary development team      |   Human Resources plan | Emphasizing on the different functionalities and abilities in the Whitepaper and on the website. |
 | S2    |Stable investment initiative: low risk|   Human Resources plan | Emphasizing on the different functionalities and abilities in the Whitepaper and on the website. |
 | S3    |Free and inexhaustible source of energy|   Human Resources plan | Emphasizing on the different functionalities and abilities in the Whitepaper and on the website. |
