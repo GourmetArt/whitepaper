@@ -43,7 +43,7 @@ Also, CryptoSolarTech has a long-term sustainable project since there is a possi
 Last but not least, CryptoSolarTech is a project that is committed to clean energy, so by investing in it, we take a step forward in the battle against climate change, making possible the mining of cryptocurrencies, respecting the environment at the same time.
 
 ## 2. BACKGROUND
-
+---
 ### 2.1 CHALLENGES
 
 International summit for climate in Paris established as a fundamental objective to limit global warming to 2°C before the year 2100.
@@ -136,11 +136,27 @@ In this section we will analyze the specific strengths, weaknesses, opportunitie
 | T3    |Cryptocurrency Market Volatility| Trading System| Trading system ready to foresee or predict market drops.|
 | T4    |Administrative restrictions in the links to distribution companies|Legal Team| Legal team able to perform tasks to obtain authorizations.|
 
+## 3. CryptoSolarTech SOLUTIONS
+---
+### 3.1 ENERGY COST
+
+Currently, it is very expensive to maintain a constant source of energy from renewable sources 24 hours a day, 365 days a year.
+
+That is why a mining project would be unsustainable in Europe due to the high costs of electricity, added to the volatility of the cryptocurrency market.
+
+To solve this problem, this company will invest parallelly in two independent projects:
+
+A first project of photovoltaic-solar plant installed in Southern Spain which will produce energy for 6 to 10 hours / day; all the energy produced will be acquired through the PPA (Energy Purchase Agreement) at a fixed price for the next 15 years as agreed in the contract with partner Respira Energia, granting a fixed income for the same period and with a ROI of 11.03% (8.19% after taxes).
+
+A second project of up to 3,000 mining servers - ASICs- installed in an industrial warehouse that will mine cryptocurrencies from the cloud; its energy will exclusively come from the photovoltaic solar power plants capable of generating 45,000 kW, enough power to supply the mining farm completely.
+
 ### 3.2 BUSINESS MODEL
 
 Economic and financial stability of the photovoltaic business model shown below:
 
 CryptoSolarTech photovoltaic park
+
+CHARACTERISTICS OF THE PARK:
 
 **Nominal power**| |**45**| | |**MW**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:
@@ -165,3 +181,46 @@ Installed potency| |54,000,000| | |
 Decrease in yield| |0.93%| |annual| 
  | | | | | 
 Availability| |98.00%| | | 
+
+INVESTMENT DATA OF THE PARK:
+**Investment in plates**|**13,500,000.00**|**€**
+:-----:|:-----:|:-----:
+Investment in civil works|23,625,000.00|€
+Total investment|37,125,000.00|€
+Price for WP plates|250|€
+Price for WP civil work|438|€
+Price for total WP|688|€
+FINANCIAL DATA| | 
+Level of leverage| | 
+Own sources|100,00%|37,125,000.00 €
+Banking debt|0,00%| 
+Interest rates|5.50%| 
+TIR|15| 
+Annual quota|0.00 €| 
+Total interest|0.00 €| 
+
+PROFITABILITY DATA
+**Project TIR (AI)**|**11.03%**
+:-----:|:-----:
+Project TIR (DI)|8.19%
+Investor TIR (AI)|11.03%
+Investor TIR (DI)|8.19%
+
+On the one hand, there are up to 3,000 mining servers operating at 863.33 kWh x 1.1 x 24 hours; we estimate 68.376 KWh / day of energy consumption. Buying the power in the network at a rate of € 0.14 / kWh, costs shall be € 9,572.64 / day.
+
+On the other hand, by generating 45,000 kW x 6 hours at the photovoltaic plant (model in image), we can estimate a supply of 271,000 kWh / day. If we were to sell the gene-rated energy inside PPA margins to Respira Energía at € 0.045 / kWh, gross income shall be € 12,195 / day or a cash-flow of € 3,557,733. That means € 9,747.21 cash-flow is set to accomplish payments to the miners’ energy consumption and obtain a surplus of € 174.57 / day at the same time.
+
+Considering this fixed energy capacity and guaranteed income, we shall simultaneously yield that income to buy energy capacity to supply 24 hours a day, 7 days a week, to operate the mining farm, guaranteeing there shall be no loss in capital for bearing more energy expenditure than mining in times of low performance.
+
+These are the potential cases of mining production in terms of Bitcoin spot price on the 04/27/2018 (1 BTC = € 7,648.07), current mining difficulty, network power calculation, algorithm distribution, Token holder distribution and operation and, management costs.
+
+CryptoSolarTech MINING PLANT
+ |**EUR**|**USD**|**+TVA**|**+ TRANSPORTATION COSTS**|**+ OTHER EQUIPMENT**|**COSTS X ALGORITHM**|**% COSTS**|**OTHER COSTS**|**€ OTHER COSTS**|**USE & PROCEEDS**| 
+:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
+S9|1,055.74|1,288.00|1,277.44|1,501.00|1,635|408,753.13|7.69%|7.69%|6,267.42|449,820.00|8.33%
+L3|545.08|665.00|659.55|774.97|909|1,136,234.63|21.36%|21.36%|17,421.90|2,250,180.00|41.67%
+E3|1,762.30|2,150.00|2,132.38|2,505.54|2,64|3,695,384.63|69.48%|69.48%|56,661.38|2,250,180.00|46.67%
+X11|454.92|555.00|550.45|646.78|781|78,079.71|1.47%|1.47%|1,197.20|179,820.00|3.33%
+ |94.26|115.00|114.06|134.02| |5,318,452.10| | |81,547.90|5,400,000.00| 
+
+
