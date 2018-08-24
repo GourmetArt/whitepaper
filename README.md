@@ -42,7 +42,7 @@ Also, CryptoSolarTech has a long-term sustainable project since there is a possi
 
 Last but not least, CryptoSolarTech is a project that is committed to clean energy, so by investing in it, we take a step forward in the battle against climate change, making possible the mining of cryptocurrencies, respecting the environment at the same time.
 
-## 2. BACKGROUND
+## 2 BACKGROUND
 ---
 ### 2.1 CHALLENGES
 
@@ -103,7 +103,7 @@ Finally, cryptocurrency investors tend to be really motivated by the different m
 Therefore, it is stated that thanks to this complete, consistent, timely, accurate and widely available technology, users will control their information and transactions, trusting that it will be executed exactly as the protocol commands, disposing the need for a trusted intermediary. Changes in Blockchain are publicly verified by all parties achieving the necessary transparency and all of them are immutable. They will be added to this particular public accounting spreadsheet called Blockchain, getting rid of potential disorder that could lead to errors or complications in regular accounting books. 
 
 
-## 2.3 SWOT ANALYSIS
+### 2.3 SWOT ANALYSIS
 
 In this section we will analyze the specific strengths, weaknesses, opportunities and threats of the CryptoSolarTech business model. The corresponding CFME is established (Counter, Face, Maintain and Explore) following the proposed scheme:
 
@@ -136,7 +136,7 @@ In this section we will analyze the specific strengths, weaknesses, opportunitie
 | T3    |Cryptocurrency Market Volatility| Trading System| Trading system ready to foresee or predict market drops.|
 | T4    |Administrative restrictions in the links to distribution companies|Legal Team| Legal team able to perform tasks to obtain authorizations.|
 
-## 3. CryptoSolarTech SOLUTIONS
+## 3 CryptoSolarTech SOLUTIONS
 ---
 ### 3.1 ENERGY COST
 
@@ -241,7 +241,7 @@ Public Holders| | | | | | |
 · | | |3,208,630.08| | | | 
 · |Return of Miner| |4.49%| | | | 
  
- ## 4. ECOSYSTEM & CST TOKENOMICS
+## 4 ECOSYSTEM & CST TOKENOMICS
 ---
 ### 4.1 TOKENOMICS: UTILITY TOKEN CST
 
@@ -361,9 +361,9 @@ Phase 2|05 - 16 - 2018|210,000,000.00|0.07|14,700,000
 Phase 3|05 - 31 - 2018|210,000,000.00|0.08|16,800,000
 Phase 4|06 - 15 - 2018|168,000,000.00|0.10|16,800,000
 
-## 5. COMPETITIVE LANDSCAPE
+## 5 COMPETITIVE LANDSCAPE
 ---
-## 5.1 MARKET FEATURES
+### 5.1 MARKET FEATURES
 
 There are few mining projects in the sector that are linked to the integration of clean energy sources and cheap production around the world, concentrated mostly in countries where the Blockchain community is very determinant.
 
@@ -383,9 +383,9 @@ This means, that in many cases, the increase in the price of electricity or the 
 
 At CryptoSolarTech, we have a 15-year power supply contract (available on our website) so the cost associated with the energy is already assumed and at no time will the operation of your ASIC be interrupted: it is a contract for life, it does not depend on price volatility in the energy market or the increase in difficulty, therefore it is guaranteed that your ASIC will be always operative.
 
-## 6. TECHNICAL SPECIFICATIONS. BLOCKCHAIN.
+## 6 TECHNICAL SPECIFICATIONS. BLOCKCHAIN.
 ---
-## 6.1 CST TOKEN
+### 6.1 CST TOKEN
 
 CST is an ERC-20 standard token operating in the Ethereum network, a decentralized open source platform that allows the creation of smart contracts where a developer can create applications (dApps) and make such contracts. Ethereum will allow to make transactions of the CST token over time in a transparent and verifiable way.
 
@@ -405,7 +405,7 @@ On the other hand, only the owner of the contract can perform the issuance of CS
 
 This token enables the holders to rent mining equipment. To do so, the user must deposit them in a Smart Contract and choose among the mining models that will exist in the platform.
 
-## 6.2 CRYPTOSOLARTECH PLATFORM
+### 6.2 CRYPTOSOLARTECH PLATFORM
 
 The CryptoSolarTech mining platform will be the one that allows to use the tokens purchased during the ICO. This platform will be able to access choosing between two mining plans: “individual plan” and “trading plan by the CryptoSolarTech team”.
 The operation of the platform is described here below:
@@ -539,7 +539,7 @@ All processes related to AML / KYC will be developed prior to the ICO.
 
 ## 7. ROADMAP, DEVELOPMENT AND FUTURE PERSPECTIVES
 ---
-## 7.1 ROADMAP
+### 7.1 ROADMAP
 
 ![Roadmap](https://www.dropbox.com/s/48zmkxlx1zizo5i/screenshot-cryptosolartech.org-2018.08.24-12-12-31.png)
 
@@ -597,11 +597,11 @@ That is, for example, if the client bought 10,000 CST and we take the value of �
 
 The fees obtained from the rental of the mining farm will be used for its operations and maintenance to have the greenfield facilities in efficient and profitable conditions.
 
-### 8. TEAM
+## 8 TEAM
 ---
 CryptoSolarTech is possible thanks to the idea and its team effort. Therefore we would like you to know the people who work continuously on the project.
 
-## 8.2 TEAM PROFILES
+### 8.1 TEAM PROFILES
 
 • **PABLO ALONSO**
 *CEO & CryptoSolarTech Co-Founder.*
@@ -828,7 +828,7 @@ When he was 13 years old, he built a digital platform for students. At the age o
 
 At present he is working on a new project called FileNation.
 
-### 9. PARTNERS
+## 9 PARTNERS
 ---
 **PUZZLEGOLD SL**
 
@@ -876,7 +876,7 @@ KEDARA Studios is a company dedicated to web development and design, mobile appl
 
 IG is a firm of advisors and leaders specialized in the digital transformation of organizations and people. They help brands, companies and people to lead the change towards future business communication and marketing between brands and people in the social network and in human business interactions. They are experts in carrying out changes, getting results, providing excellence and creating resonance form the backbone of one´s principles. Based on this, they make new forms of communication and digital transformation work.
 
-## 10. LEGAL DISCLAIMER
+## 10 LEGAL DISCLAIMER
 ---
 The purpose of this Whitepaper is to present to CryptoSolarTech (“the Company”) its technology, its underlying token (subsequently named as “CST” or token) to potential token owners in connection with the proposed Token Generator Event (“ TGE “). The information presented below may not be exhaustive and does not imply any element of contractual relationship. Its only purpose is to provide relevant and reasonable information to the potential owners of tokens in order to determine whether to perform a thorough analysis of the company with the intention of acquiring CST tokens. All relevant legal information can be found in the Token Purchase Terms and the Token Purchase Agreement.
 
@@ -900,7 +900,7 @@ The publication, distribution or dissemination of the Whitepaper does not imply 
 
 Finally, and due to the legal and regulatory uncertainty in EE. UU., Citizens and holders of the Greencard and people residing in the EE. UU. are not authorized to provide contri-butions and obtain CryptoSolarTech tokens. Citizens and holders of the Greencard and people residing in the EE. UU. who participe in fundraising by providing false information about their citizenship, place of residence and nationality will be violating the terms and conditions will give the right to CryptoSolarTech to request that those persons indemnify the company for any damages and / or losses suffered due to this violation.
 
-## 11. UPDATED INFORMATION FOR BUYERS AND CONSUMERS
+## 11 UPDATED INFORMATION FOR BUYERS AND CONSUMERS
 ---
 Website: https://cryptosolartech.org/es/
 
