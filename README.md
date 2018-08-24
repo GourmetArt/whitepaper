@@ -213,7 +213,8 @@ Considering this fixed energy capacity and guaranteed income, we shall simultane
 
 These are the potential cases of mining production in terms of Bitcoin spot price on the 04/27/2018 (1 BTC = € 7,648.07), current mining difficulty, network power calculation, algorithm distribution, Token holder distribution and operation and, management costs.
 
-CryptoSolarTech MINING PLANT
+CryptoSolarTech MINING PLANT:
+
  ·|**EUR**|**USD**|**+TVA**|**+ TRANSPORTATION COSTS**|**+ OTHER EQUIPMENT**|**COSTS X ALGORITHM**|**% COSTS**|**OTHER COSTS**|**€ OTHER COSTS**|**USE & PROCEEDS**| 
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
 S9|1,055.74|1,288.00|1,277.44|1,501.00|1,635|408,753.13|7.69%|7.69%|6,267.42|449,820.00|8.33%
@@ -221,6 +222,7 @@ L3|545.08|665.00|659.55|774.97|909|1,136,234.63|21.36%|21.36%|17,421.90|2,250,18
 E3|1,762.30|2,150.00|2,132.38|2,505.54|2,64|3,695,384.63|69.48%|69.48%|56,661.38|2,250,180.00|46.67%
 X11|454.92|555.00|550.45|646.78|781|78,079.71|1.47%|1.47%|1,197.20|179,820.00|3.33%
  |94.26|115.00|114.06|134.02| |5,318,452.10| | |81,547.90|5,400,000.00| 
+ 
 
  ·| |**BTC**|**Price BTC**|**Revenues**|**O&M Costs**| |**O&M % S/VALUE**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
@@ -254,7 +256,8 @@ A CryptoSolarTech 'in situ' service center will also be enabled, which will mini
 
 ### 4.2 CST TOKEN SALE
 
-CST (Features, TGE & Caps)
+CST (Features, TGE & Caps):
+
 **Ticker**|**CST**
 :-----:|:-----:
 Blockchain|Ethereum
@@ -285,7 +288,8 @@ Payments will be available in ETH, BTC and EUR. The CST / ETH, CST / BTC, CST / 
 
 Team members will keep 15% of the total amount of the sale and prices will be granted from a 50% discount to a 0% discount throughout the different phases of the token sale, until the end of the TGE. The price of each CryptoSolarTech token or CST is € 0.07 / token, and will be offered from € 0.05 / token to € 0.10 / token. Therefore, the initial rate depends on the day of acquisition.
 
-TOKEN DISTRIBUTION
+TOKEN DISTRIBUTION:
+
 ·|**Total (€)**|**Total Amount (CST)**|**%**
 :-----:|:-----:|:-----:|:-----:
 Project development|57,120,000.00|1,008,000,000.00|80.00%
@@ -349,7 +353,7 @@ It consists of 4 phases, in which investors can be awarded with bonuses dependin
 
 You can check the phases with the respective prices of the CST token in the following table:
 
- |**Start Date**|**Nº of Tokens**|**Price €**|**Total €**
+ ·|**Start Date**|**Nº of Tokens**|**Price €**|**Total €**
 :-----:|:-----:|:-----:|:-----:|:-----:
 Pre-ICO|04 - 16 - 2018|210,000,000.00|0.05|10,500,000
 Phase 1|05 - 01 - 2018|210,000,000.00|0.06|12,600,000
@@ -408,7 +412,7 @@ The operation of the platform is described here below:
 
 In the CryptoSolarTech platform, the interfaces will monitor the mining activities individually, choosing between the algorithms selected from the different cryptocurrencies (SHA256 for Bitcoin or Bitcoin Cash, SCRYPT for Litecoin or Verge, GPU for Ethereum or Ethereum Classic, XII for Dash among others) or choosing between the different CryptoSolarTech custom mining plans offered at the investor’s choice for its rental.
 
- | | | |**ALGORITHM SELECT**| | | | | | 
+· | | | |**ALGORITHM SELECT**| | | | | | 
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
 SHA256| | |SCRYPT| | |XII| | |GPU| 
 Bitcoin|BTC| |Litecoin|LTC| |Dash|DASH| |Ethereum|ETH
@@ -508,7 +512,6 @@ Finally, the fire protection system will be equipped with different components t
 
 Temperature, smoke and flame detectors will be installed, helping the system to activate at the indicated time and prevent further damage.
 
-
 Given the criteria of the facilities, where all the components work with electricity, the protection system that will be used is a system with chemical agents, which will allow to extinguish and / or control a possible fire in a clean manner and without damaging the environment. Liquefied and inert gases will be used.
 
 Like the intrusion alarm, the fire prevention system will be connected 24/7 to the central centre, so it will help us to be more effective in the event of an incident by notifying us at the same time.
@@ -578,3 +581,333 @@ PHASE 2|May 15th - May 31st, 2018|210,000,000.00|16.67%
 PHASE 3|May 31st - June 15th, 2018|210,000,000.00|16.67%
 PHASE 4|June 15th - July 14th, 2018|168,000,000.00|13.33%
 Token Sale| |1,260,000,000.00|100.00%
+
+The dates can change depending on the development of the ICO. The information will be updated on the ICO website www.CryptoSolarTech.org. However, the public sale will be launched during the second quarter of 2018.
+
+### 7.4 REVENUE MANAGEMENT
+
+To explain revenue management we must differentiate between two cases:
+
+* If the customer is the one who performs the cryptocurrency mining (individual mining), the rental cost will be 20% of the cryptocurrencies obtained by mining, which may change due to a modification in the future depending on the mining adjustment and the mining difficulty. As well as due to other circumstances that can not be mitigated to this day.
+
+* If, on the contrary, the client chooses the CryptoSolarTech team to perform the mining, then the 20% rental cost will be integrated into the cost of the Plan that he/she has chosen. The return plan that the client has selected will be sent to the Smart Contract that will be transferred to the client´s Wallet, where the client bought the CST.
+
+That is, for example, if the client bought 10,000 CST and we take the value of € 0.1 per token- and selected the one-year plan, this will provide a benefit of 36% per year. Like this, at the end of the year, we will have: 10,000 CST * € 0.1 + 36% = € 1,360 of profit that the Smart Contract will automatically send on eth basis to the client´s Wallet (for an investment of € 1,000). 
+
+The fees obtained from the rental of the mining farm will be used for its operations and maintenance to have the greenfield facilities in efficient and profitable conditions.
+
+### 8. TEAM
+---
+CryptoSolarTech is possible thanks to the idea and its team effort. Therefore we would like you to know the people who work continuously on the project.
+
+## 8.2 TEAM PROFILES
+
+• **PABLO ALONSO**
+*CEO & CryptoSolarTech Co-Founder.*
+
+He is the CEO and Founder of the company PuzzleGold, created in 2012, and dedicated exclusively to the Blockchain world. Puzzlegold focuses on advice, project management, web develo-pment, data mining: Based on sector that has been specialized to connect all projects and focus them on a more safe and reliable system.
+
+He is also CEO of projects with a great success at international sphere implementing the Blockchain system with renewable energy, real estate, etc., Therefore, he provides the confidence and experience in very important projects. 
+
+• **ALAIN AGUIRRE**
+*CEO & CryptoSolarTech Co-Founder.*
+
+He began his professional career as electronic specialist, developing himself in areas such as electromedicine, or micro-computing, and finally reaching the production supervision in the mul-tinational TDK with excellent recognition. 
+
+
+Moreover, he is a computer systems engineer and a senior technician in electronics and computer science, with extensive experience in the computer security sector, trading and a large portfolio in cryptocurrency management. 
+
+He has more than 5 years of experience in the development of an infrastructure oriented to the creation of Bitcoins and Altcoins, plus his collaboration in the development of international trading platforms and also offering advice for the investment in cryptocurrencies and data mining.
+
+
+• **ROQUE GARIJO**
+*CryptoSolarTech Renewable Energies Director.*
+
+He is the founder of “Grupo Platasol”, which is composed of “Platasol Inmobiliaria” and “Platasol Renovables”, founded in 2005 and at that time he started in the real estate sector, but always very focused on the rural property sector. From 2007 he began to develop procedures of solar installations and he founded “Platasol Renovables”. Since that moment he has been growing in the sector until today.
+
+He has a great number of very important projects in development, with new business formulas such as CryptoSolarTech.
+
+
+• **DANIEL RECUENCO**
+*CryptoSolarTech CTO & Web Developer.*
+
+He is the founder of KEDARA Studios and co-organizer of the computer security conference MorterueloCON. He is self-taught and passionate about computer science since he was a child.
+
+He has more than 5 years of experience as a web developer and SysAdmin, paying special attention to security and privacy.
+
+At this time he develops his activity as a freelance and he is the developer and Chief Technical Officer at CryptoSolarTech.
+
+
+• **PAULA PASCUAL**
+*CryptoSolarTech Executive Director.*
+
+Her job consists in coordinating the work of the entire Cryptosolar team, as well as transmitting the importance of the project through different channels: clients, events, congresses and social media.
+
+She works as a consultant in different areas within the BlockChain technology, both in the legal aspect and in the business development. She studied Law and Business Management and she has participated in important national events. She has won a National Research Award which consists on the searching of grants for socially excluded groups. This is also related with her collaboration in different volunteering programs in countries such as Indonesia or Brazil. Nowadays, she is the Commercial & Legal Lead Peer of AgoraChain, the first Spanish digital magazine of BlockChain technology. 
+
+Paula’s passion is the management of human relations appliedto the management of companies and people. Furthermore, her greatest interest lies in the search for equality in leadership.
+
+
+• **ANTONIO ARRANZ**
+*CryptoSolarTech Strategy Director.*
+
+Since finishing his studies in Higher Degree of Delineation until 1988, he has worked for the company Dragados y Construcciones in the management and creation of projects and plans area.
+
+From 1991 to the present, he opted for business, in particular for the catering sector, developing his first steps in the management and operation of a leisure center.
+
+Then, around 1999, he was part of the creation and management of a food distributor at national level . Over time he was developing, creating and managing four more restaurants in the center of Madrid, being the owner of two stores in the mentioned city and which he still manages today.
+
+From his professional career it can be said that he is a person who practices self improvement and leading abilities. Moreover he is an expert on team management, with a lot of knowledge acquired and based on time and his own experience. He also has the ability of solving contingencies at all levels effectively and efficiently. He is considered a highly responsible person and a and fighter.
+
+
+• **JUAN BORRAJO**
+*CryptoSolarTech Public Works Technical Director and General Director at Bilba.*
+
+Industrial Engineer and Master in Business Administration (MBA)
+
+His professional career has always been linked to the construction sector. He has been working on construction, industrial and engineering companies. Among others Vera Group, MLR Cons-trucciones, Acerca and D-Tek industrial. From his beginnings, talking in professional terms, he has carried out functions ranging from Project Manager, Account Manager or Head of Facilities Department, to the current position of General Manager at Bilba Constructora.
+
+At the facilities level, he has experience in Design and Execution of both Industrial facilities, Special installations, Security and Telecommunications. Regarding the construction area, he has been a construction manager and he has led the execution of building and rehabilitation projects.
+
+
+• **ISRA GARCIA**
+*CryptoSolarTech Marketing Director.*
+
+53 clients, 48 advised businesses, 400 talks, 3,476 publications, 24 projects, 6 books, 380 conferences, 6 companies, 16 adventures, 24 experiments.
+
+His job is to reflect a change, an inspiration and an interruption for people. He cares about human interactions. That is why he is dedicated to marketing, the social network and the Internet. He thinks that those factors combined with human nature, emotions, feelings and relationships are the perfect combination. One of his objectives is reaching disciplines and creating unique opportunities for this important trend and reality. That is, bring intention, creativity and emotions to the experience of technology.
+
+Marketer & Digital - Commercial transformation. He works as advisor and analyst and he is a professional speaker and director of IG. Author of 6 books and founder of the Stand OUT program.
+
+He focuses his attention on increasing awareness of social networks in companies, expanding their reach and creating resonance between brands and communities, beyond traditional commu-nication channels and marketing practices.
+
+• **ANTONIO TRUJILLO**
+*National Sales Director de CryptoSolarTech.*
+
+Antonio has a great experience as a project manager. He has been in charge of several companies, and nowadays he is leading Efinanceclick, a consolidated company in the Marketing and web positioning sector in Malaga.
+
+The area of sales is a very important factor, since customer loyalty and to know how the business works translates to the security and confidence that is transmitted to investors. Thanks to his ability and great experience in the world of customer management and treatment, he develops one of the most important positions in the CryptoSolarTech project.
+
+
+• **MANUEL MARTINEZ**
+*Project Manager de CryptoSolarTech.*
+
+Since finishing his studies as a Technical Architect and Building Engineer, Manuel Martínez has compiled extensive experience as a construction director in different projects. He has been in charge of health and safety coordination for different constructions. He has an extensive knowledge in measurements and execution budgets.
+
+Given his extensive experience in project management and execution, his role at CryptoSolarTech is to direct and verify that the facilities and all project constructions are developed and finalized at the highest standard.
+
+• **ALBERTO ARENAS**
+*CryptoSolarTech Renewable Energies Specialist Engineer.*
+
+He works as an Industrial Electronics Engineer (Digital Signal Processing Eng.). He is currently studying a Double Degree in Electrical Engineering and Industrial Electronics Engineering at the University of Seville. 
+
+His work experience is mainly based around the area of renewable energy and energy efficiency, however he has also done projects of other types, such as security systems, conventional installations (low voltage, lighting, etc.) and control automatic facilities. In his last job, he worked as an R & D engineer on new devices oriented on improving energy efficiency or improving the performance of renewable energy installations (robotics and automation). The functions that he has normally carried out during his work stages have been those of a Project Manager, as in all of them he has carried out and / or participated as well as in thedesign of the projects in the elaboration of the budget of the same, the control of the planning of work and execution costs, in addition to the supervision of the work performed qualities. 
+
+
+• **MARI CRUZ ALVAREZ**
+*CryptoSolarTech Renewable Energies Specialist.*
+
+She is a specialist in renewable energy and she began working more than 10 years ago as a consultant for real estate management at the “Platasol Inmobiliaria” group, on urban plots. Only a year later she extended her efforts for plots and rural properties giving greater support to “Platasol Renovables.” Thanks to her constant dedication she reached the position of commercial dele-gate in administrative mode as group coordinator and manager between clients and individuals. What she is most passionate about and what strikes her is to be able to give advise in “Platasol Renovables” in the urban management for energy projects.
+
+• **JAVIER MARIN**
+*CryptoSolarTech Renewable Energies Specialist.*
+
+Nowadays, he works as an energy engineer at Platasol. He has studied Economics and Business Management. He has worked for 14 years at BBVA and in an external collaborating company for Santander Bank as personal financial and mortgage manager. He currently works at Grupo Platasol, more specifically at Platasol Inmobiliaria as commercial manager, directing and collaborating with Platasol Renovables the search, negotiation and purchase / rental of farms for the study, development and implementation of photovoltaic projects.
+
+
+• **PABLO YABO**
+*CryptoSolarTech Smart Contract Developer.*
+
+Pablo began his professional career in the area of computer security in 1997. From that moment he was responsible for the design of security products and also leading development teams, first in Core Security Technologies and later in Nektra Advanced Computing which was founded by him and Sebastián Raúl Wain in 2003.
+
+In 2014, he founded CoinFabrik with Sebastián Raúl Wain and Sergio Lerner with the purpose of offering services related to Blockchain. He carried out numerous developments in Blockchain, security audits and ICOs in general and currently is the CTO of CoinFabrik.
+
+• **ARIEL YABO**
+*Security Coordinator de CryptoSolarTech.*
+
+At the moment, he is Business Manager & Blockchain Consultant at Coinfabrik.
+
+He graduated as Systems Engineer at UTN in Buenos Aires. His career is made up of different positions, such as: Company Crypto Consultant, Crypto and Real Estate Investor, Expert in Di-gital Marketing (SEO, PPC, Social Marketing (Twitter & Facebook), Keyword Analysis (Semrush, kwfinder), Marketplaces (Ebay, Mercadolibre), Affiliated Marketing with Jvzoo, Moreniche and Amazon, Crypto Marketing, PR), Web Business Manager Services, Content Manager.
+
+He worked as a consultant for Mercadolibre and Ebay in the process of cataloging products, conducting marketing campaigns, creating e-commerce sites (search for the best framework (Woo-Commerce, Magento, etc.), product migration, design, site maintenance , email marketing, landing page, homepage), keyword research, guest publications, backlink building. He built his own affiliate sites to Amazon and Jvzoo. He worked for Nektra.com on KW research, PPC, as a content management and security search. Nowadays he is working at Coinfabrik as a commercial manager. 
+
+
+• **DIEGO RIOS PADRON**
+*CryptoSolarTech Legal Civil Counsel.*
+
+Lawyer in exercise with more than twenty-five years of experience, specialized in Commercial Law, Corporate Law and Consumer Law. He has participated, as a legal advisor, in numerous business projects related to real estate developments, public procurement and commercial developments (retail). At the present time, he focuses his activity on Blockchain technology and its legal implications.
+
+• **FRANCISCO ESTEPA**
+*CryptoSolarTech Legal Counsel.*
+
+He graduated with a Law Degree at the University of Navarra. He is a lawyer since 2005, with special dedication in his field. He is specialized in commercial law, economic criminal law and prevention of money laundering. He is algo member of the formation commission of the European association of lawyers and economists in compliance; He has the Advanced Certificate in Business Compliance by the International Compliance Association (ICA).
+
+
+• **DAVID LESMES**
+*CryptoSolarTech Graphical Designer.*
+
+Graphic designer in Malaga. His passion for design and illustration has fortunately become his daily work. Since 2006 he has carried out different design projects such as the creation of brands for various SMEs; design and development of websites; organization of corporate events; creative marketing campaigns and design of social networking strategies, among others.
+
+In his line of work, his graphic design style can be appreciated, due to the time he has invested in this, because as everybody knows this world of digital art is a continuous process of growth and innovation.
+
+
+• **JESSICA ALCALDE**
+*CryptoSolarTech Digital Marketing Manager.*
+
+Jessica’s main professional passion is to transform technology into something that will make people’s life easier.
+
+She invests her time to better understand how to help businesses using the online environment to create better customer experiences. She strongly believes there are plenty of useful techno-logies out there that need to be repositioned to focus on people, to be customer-oriented and generate value.
+
+Her professional career has been developed in and around communication and marketing. She has worked for multinationals and internationally recognized startups.
+
+
+• **AITOR CONTRERAS**
+*CryptoSolarTech Digital Marketing Specialist.*
+
+His work consists in the design of marketing strategies in general, and he is specialized when it comes to applying this on the online environment: web and SEO area, online advertising, Social Media, Social CRM and the alignment of all this with other departments and systems (especially existing ERP and CRM, shared work methods, etc.).
+
+
+• **ERIC MORERA**
+*CryptoSolarTech Digital Marketing Consultant.*
+
+More than 10 years of experience working in Digital Marketing and currently he is a part of Dorna Sports working as CRM and BI Manager. His mission is to improve the products, services and experiences of our customers through the use of advanced analytics, marketing automation and loyalty strategies. In addition to his current position, he collaborates with companies in the development of their transformation plans and digital marketing, supporting from the planning, execution and control of achieving objectives.
+
+
+• **ALVARO SAN BASILIO**
+*Digital Marketing Consultant de CryptoSolarTech.*
+
+He has a degree in Business Administration and Management. He is passionate about new technologies and sustainable development. His work in the company consists mainly of the develo-pment of the commercial structure in all its areas. Extensive experience working in the sector of renewable energies and Real Estate.
+
+He has developed management positions in several companies in the renewable sector and completed thousands of renewable projects both at a private and business level. Based mainly on photovoltaic and thermal solar energy. He is also the owner and founder of the real estate agency “Casas Diez” in the province of Seville with a wide portfolio of investment funds and owners.
+
+• **MARIAM KHAN**
+*CryptoSolarTech Customer Service Manager.*
+
+She was graduated with a Communications degree, she is also native English and bilingual. Mariam has multiple and diverse professional experiences which have given her important qualities and tools in her work development. 
+
+She has experience in sales and network marketing. Furthermore she has extensive experience in the real estate sector as sales director with an important team under her charge. While she has been working at Puzzlegold, she has been responsible for the management of projects, contact with clients and organizations, management and team coordination, presentations and responsible for general translations, including projects for potential investors / funds, presentation and demonstration of lands, translation of feasibility reports, correspondence and general contracts, design of market studies, etc. 
+
+• **ANA VILLALVILLA**
+*Talent & HR Manager de CryptoSolarTech.*
+
+HR especially oriented around the field of internal communication, employer branding and CSR. She has training in High Involvement Work Practices, corporate communication, project mana-gement, digital branding and engagement and personal productivity, translating to a very interesting profile for the strategic planning of the organization.
+
+• **VICTOR RONCO**
+*CryptoSolarTech ICO Advisor.*
+
+A professional dedicated to the advertising, digital and marketing sector with more than a decade of international experience with world leading companies such as Banco Santander, Red Bull, Danone and Volkswagen Group. His job is to understand the change that technology produces in society in order to design and execute quantifiable, creative and innovative projects to add real value to consumers.
+
+His passion for work extends to the training of brands, agencies and organizations to define and implement routes to enter the disruptive digital economy. In addition, he is an international lecturer and professor of a business school and lectures on digital transformation, sharing economy, Blockchain, employer brand or e-commerce, among other innovation topics.
+
+• **JOSEF AJRAM**
+*CryptoSolarTech Brand Ambassador & Special Financial Advisor.*
+
+He is a writer, sportsman and Spanish trader. In 2000 he founded the company Caltal Promotrading with the support of his family. His specialty is day trading, which consists of buying and selling many share packages during the same day, and his preferred market is the Spanish stock market exchange.
+
+As a lecturer, Josef teaches introductory courses to the stock market. In 2009 he created Where is the Limit, a company-club that has more than 800 members throughout Spain and it has de-legations in cities such as Valencia, Marbella, Madrid, La Coruña or Seville. He is also partner of the digital marketing and social media agency Molokai as well as Tradercom. He has published several books of personal motivation and self improvement. 
+
+He works as an intraday trader speculating in the Barcelona Stock Exchange and the Madrid Stock Exchange.
+
+
+• **SEBASTIAN WAIN**
+*CryptoSolarTech Security Advisor.*
+
+Sebastian R. Wain was co-founder CoinFabrik in 2014 and Nektra Advanced Computing in 2003. CoinFabrik develops secure Blockchain and cryptocurrency solutions, and Nektra is specialized in Microsoft Windows internals, reverse engineering and development of customized security solutions.
+
+
+Before co-founding CoinFabrik and Nektra, Sebastian worked in the area of computer security at Core Security and AFIP investigating, discovering vulnerabilities and proposing technological solutions. He obtained a degree in Information Systems at the University Center for Exact Sciences Studies and previously he completed ORT technical secondary school aimed at software development. 
+
+Sebastian started programming when he was about 8 years old with an Apple II computer.
+
+
+• **ALEX SICART**
+*CryptoSolarTech Disruptive Technology Advisor.*
+
+When he was 13 years old, he built a digital platform for students. At the age of 17, he became CTO of Sharge, an economic sharing platform of charging stations for electric car users that was partnered with Audi. The peer-to-peer network of the startup allows people to rent charging stations in their own houses.
+
+At present he is working on a new project called FileNation.
+
+### 9. PARTNERS
+---
+**PUZZLEGOLD SL**
+
+Puzzlegold is dedicated to consulting and development of projects based on Blockchain, as well as cryptocurrency mining and computer management for com-panies. This company has extensive experience in administration and development of trading systems and cryptocurrencies, with several projects created on the Blockchain platform, for example, Kryptobits.
+
+
+**PLATASOL RENOVABLES**
+
+Specialist company in solar energy, responsible for the steps for the implementation and assembly of the solar plant.
+
+In the area of renewable energies, Platasol Renovables provides services to clients that require support in the design, license management, construction, valua-tion, operation, performance improvement or operation of a facility.
+
+
+**RESPIRA ENERGIA**
+
+This company will buy the energy produced by the solar plant and supply it to the mining farm. Its relationship with Cryptosolar is specified in a contract for 15 years of energy supply. 
+
+Respira Energía provides technology to all consumers so that they can obtain electricity directly at wholesale market prices and with 100% CO2-free origin gua-rantee. We understand that this is the best option if a correct management cost is placed and adapted to the level of consumption of each user.
+
+
+**COINFABRIK**
+
+They are experts in cryptocurrencies, Blockchain and Computer Security. With more than 20 years of experience developing and auditing applications in the area of computer security and cryptology. They have developed new cryptocurrency protocols related to Bitcoin and discovered several security vulnerabilities. Among its software development services, they help their clients to define the functionality of the products, design the graphic interface, integrate the software with other applications, test functionality or Q&A and taking the software to cloud environments.
+
+
+**BILBA**
+
+Civil construction, is a construction company that is responsible for these efforts for solar plants.
+
+Bilba is a family business dedicated to construction, backed by more than two decades of experience in the sector and a passion for work well done. In its third generation, it has expanded horizons and established new areas of activity.
+
+**E-FINANCE CLICK**
+
+They are in charge of the national sales.
+
+E-Finance Click is an online Marketing Agency specialized in Designing and Executing marketing and communication strategies on the internet with headquarters in Malaga.
+
+
+**KEDARA STUDIOS**
+
+KEDARA Studios is a company dedicated to web development and design, mobile applications and ethical hacking. It was Founded in 2014. It is formed by a team with years of experience.
+
+
+**IG**
+
+IG is a firm of advisors and leaders specialized in the digital transformation of organizations and people. They help brands, companies and people to lead the change towards future business communication and marketing between brands and people in the social network and in human business interactions. They are experts in carrying out changes, getting results, providing excellence and creating resonance form the backbone of one´s principles. Based on this, they make new forms of communication and digital transformation work.
+
+## 10. LEGAL DISCLAIMER
+---
+The purpose of this Whitepaper is to present to CryptoSolarTech (“the Company”) its technology, its underlying token (subsequently named as “CST” or token) to potential token owners in connection with the proposed Token Generator Event (“ TGE “). The information presented below may not be exhaustive and does not imply any element of contractual relationship. Its only purpose is to provide relevant and reasonable information to the potential owners of tokens in order to determine whether to perform a thorough analysis of the company with the intention of acquiring CST tokens. All relevant legal information can be found in the Token Purchase Terms and the Token Purchase Agreement.
+
+In the content of this Whitepaper nothing will be considered as a proposal or an investment request of any kind, nor in any way is related to an offer or a request for an offer to buy securities in any jurisdiction where it is illegal. This document is not written in accordance with, and is not subject to, the laws or regulations of any jurisdiction that are designed to protect investors. Neither the CNMV (Spanish supervisory institution) nor the US Securities and Exchange Commission nor any other foreign regulatory authority has approved an investment in the CST tokens. There is not a regulatory authority which has examined or approved any information established in the Whitepaper.
+
+Since the CST Token is connected to the use of a product that allows exclusive access rights to mining crypto assets, it is legally classified as a Utility Token and, in no case, as a security token, since it does not entitle owners of tokens to receive profits from CryptoSolarTech.
+
+CST token is a non-purely speculative investment, due to its possession gives the holders exclusive benefits that are described in this Whitepaper, being considered as a Utility Token.
+
+In any case, the certificate holder has no dividend or benefit from the capital of the company. All the legal information related to the token can be found in the Token Purchase Terms and the Tokens Purchase Agreement, which accepts to be accepted by the buyer, as well as the description of the risks associated with its acquisition.
+
+Certain statements and financial information contained in this Whitepaper constitute forward-looking statements or information. Such statements or information involve known and unknown risks and uncertainties, which may cause that actual events or results differ materially from the estimates or results implied or expressed in such forward-looking statements.
+
+The Whitepaper in English is the main source of official information regarding the CST token generator event and the CST token. The information contained in the original document can be translated into other languages or it can be used for written or verbal communications with existing and potential members of the community, clients, partners, etc. In the cour-se of such translation or communication, part of the information may be lost, corrupted or misrepresented. The accuracy of such alternative communications can not be guaranteed. In case of discrepancies or inconsistencies between said translations and communications and the official Whitepaper in English, the provisions of the original document shall prevail.
+
+The Whitepaper, the information provided on the CryptoSolarTech website and the terms and conditions published by CryptoSolarTech, any part of them and any copies of them, should not be taken or transmitted to any country where the distribution or dissemination of these documents / information is prohibited or restricted.
+
+No action of this type has been taken or will be taken under the laws, regulatory requirements or rules of any jurisdiction.
+
+The publication, distribution or dissemination of the Whitepaper does not imply that the applicable laws, regulatory requirements or standards have been met.
+
+Finally, and due to the legal and regulatory uncertainty in EE. UU., Citizens and holders of the Greencard and people residing in the EE. UU. are not authorized to provide contri-butions and obtain CryptoSolarTech tokens. Citizens and holders of the Greencard and people residing in the EE. UU. who participe in fundraising by providing false information about their citizenship, place of residence and nationality will be violating the terms and conditions will give the right to CryptoSolarTech to request that those persons indemnify the company for any damages and / or losses suffered due to this violation.
+
+## 11. UPDATED INFORMATION FOR BUYERS AND CONSUMERS
+---
+Website: https://cryptosolartech.org/es/
+Telegram: https://t.me./cryptosolartech/
+Twitter: https://twitter.com/cryptosolartech/
+Facebook: https://www.facebook.com/cryptosolartech
+Medium: https://medium.com/@cryptosolartech
+Reddit: https://www.reddit.com/user/cryptosolartech
+GitHub: https://github.com/cryptosolartech/smartcontract
+Instagram: https://www.instagram.com/cryptosolartech/
+**CONTACT:**
+info@cryptosolartech.org
