@@ -903,12 +903,21 @@ Finally, and due to the legal and regulatory uncertainty in EE. UU., Citizens an
 ## 11. UPDATED INFORMATION FOR BUYERS AND CONSUMERS
 ---
 Website: https://cryptosolartech.org/es/
+
 Telegram: https://t.me./cryptosolartech/
+
 Twitter: https://twitter.com/cryptosolartech/
+
 Facebook: https://www.facebook.com/cryptosolartech
+
 Medium: https://medium.com/@cryptosolartech
+
 Reddit: https://www.reddit.com/user/cryptosolartech
+
 GitHub: https://github.com/cryptosolartech/smartcontract
+
 Instagram: https://www.instagram.com/cryptosolartech/
+
 **CONTACT:**
+
 info@cryptosolartech.org
