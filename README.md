@@ -414,7 +414,8 @@ In the CryptoSolarTech platform, the interfaces will monitor the mining activiti
 
 **ALGORITHM SELECT**
 
-SHA256| | |SCRYPT| | |XII| | |GPU| ·
+**SHA256**| | |**SCRYPT**| | |**XII**| | |**GPU**| 
+:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
 Bitcoin|BTC| |Litecoin|LTC| |Dash|DASH| |Ethereum|ETH
 Bitcoin Cash|BCH| |Game Credits|GAME| |Cannabiscoin|CANN| |Expanse|EXP
 Peercoin|PPC| |Digibyte|DGB| |Startcoin|START| |Metaverse|ETP
