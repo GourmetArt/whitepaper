@@ -112,12 +112,12 @@ In this section we will analyze the specific strengths, weaknesses, opportunitie
 | ------------- |:-------------:| -----:|:-------------:|
 | Strengths      |  | Maintain  |  |
 | S1    | Multidisciplinary development team      |   Human Resources plan | Emphasizing on the different functionalities and abilities in the Whitepaper and on the website. |
-| S2    |Stable investment initiative: low risk|   Human Resources plan | Emphasizing on the different functionalities and abilities in the Whitepaper and on the website. |
-| S3    |Free and inexhaustible source of energy|   Human Resources plan | Emphasizing on the different functionalities and abilities in the Whitepaper and on the website. |
-| S4    |Little or no competition|   Human Resources plan | Emphasizing on the different functionalities and abilities in the Whitepaper and on the website. |
-| S5    |Decreasing Greenhouse Gases Emissions   Human Resources plan | Emphasizing on the different functionalities and abilities in the Whitepaper and on the website. |
-| S6    |High average of solar hours|   Human Resources plan | Emphasizing on the different functionalities and abilities in the Whitepaper and on the website. |
-| S7    |Cost saving in the mining system|   Human Resources plan | Emphasizing on the different functionalities and abilities in the Whitepaper and on the website. |
+| S2    |Stable investment initiative: low risk|   Human Resources plan | Show stability in advertising. |
+| S3    |Free and inexhaustible source of energy|   Human Resources plan | Campaigns focused on the advantages of solar energy. |
+| S4    |Little or no competition|   Human Resources plan | Highlighting differentiation in the market: innovation. |
+| S5    |Decreasing Greenhouse Gases Emissions  | Human Resources plan | Installation of solar panels to accomplish main targets.|
+| S6    |High average of solar hours|   Human Resources plan | Highlighting the privileged characteristics of Spain in terms of hourly sun irradiation. |
+| S7    |Cost saving in the mining system|   Human Resources plan | Enhance project target: cost savings. |
 | Weaknesses      |  | Counter |  |
 | W1    | Lack of aid and specific regulations      |   Legal Plan| Legal team prepared and guaranteeing legal security. |
 | W2    |High initial investment|   ICO | Start of the ICO. |
@@ -215,7 +215,7 @@ These are the potential cases of mining production in terms of Bitcoin spot pric
 
 CryptoSolarTech MINING PLANT:
 
- ·|**EUR**|**USD**|**+TVA**|**+ TRANSPORTATION COSTS**|**+ OTHER EQUIPMENT**|**COSTS X ALGORITHM**|**% COSTS**|**OTHER COSTS**|**€ OTHER COSTS**|**USE & PROCEEDS**| 
+·|**EUR**|**USD**|**+TVA**|**+ TRANSPORTATION COSTS**|**+ OTHER EQUIPMENT**|**COSTS X ALGORITHM**|**% COSTS**|**OTHER COSTS**|**€ OTHER COSTS**|**USE & PROCEEDS**| ·
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
 S9|1,055.74|1,288.00|1,277.44|1,501.00|1,635|408,753.13|7.69%|7.69%|6,267.42|449,820.00|8.33%
 L3|545.08|665.00|659.55|774.97|909|1,136,234.63|21.36%|21.36%|17,421.90|2,250,180.00|41.67%
