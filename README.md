@@ -180,6 +180,7 @@ Decrease in yield| |0.93%| |annual|
 Availability| |98.00%| | | 
 
 INVESTMENT DATA OF THE PARK:
+
 **Investment in plates**|**13,500,000.00**|**€**
 :-----:|:-----:|:-----:
 Investment in civil works|23,625,000.00|€
@@ -196,7 +197,8 @@ TIR|15|
 Annual quota|0.00 €| 
 Total interest|0.00 €| 
 
-PROFITABILITY DATA
+PROFITABILITY DATA:
+
 **Project TIR (AI)**|**11.03%**
 :-----:|:-----:
 Project TIR (DI)|8.19%
@@ -212,7 +214,7 @@ Considering this fixed energy capacity and guaranteed income, we shall simultane
 These are the potential cases of mining production in terms of Bitcoin spot price on the 04/27/2018 (1 BTC = € 7,648.07), current mining difficulty, network power calculation, algorithm distribution, Token holder distribution and operation and, management costs.
 
 CryptoSolarTech MINING PLANT
- |**EUR**|**USD**|**+TVA**|**+ TRANSPORTATION COSTS**|**+ OTHER EQUIPMENT**|**COSTS X ALGORITHM**|**% COSTS**|**OTHER COSTS**|**€ OTHER COSTS**|**USE & PROCEEDS**| 
+ ·|**EUR**|**USD**|**+TVA**|**+ TRANSPORTATION COSTS**|**+ OTHER EQUIPMENT**|**COSTS X ALGORITHM**|**% COSTS**|**OTHER COSTS**|**€ OTHER COSTS**|**USE & PROCEEDS**| 
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
 S9|1,055.74|1,288.00|1,277.44|1,501.00|1,635|408,753.13|7.69%|7.69%|6,267.42|449,820.00|8.33%
 L3|545.08|665.00|659.55|774.97|909|1,136,234.63|21.36%|21.36%|17,421.90|2,250,180.00|41.67%
@@ -220,7 +222,7 @@ E3|1,762.30|2,150.00|2,132.38|2,505.54|2,64|3,695,384.63|69.48%|69.48%|56,661.38
 X11|454.92|555.00|550.45|646.78|781|78,079.71|1.47%|1.47%|1,197.20|179,820.00|3.33%
  |94.26|115.00|114.06|134.02| |5,318,452.10| | |81,547.90|5,400,000.00| 
 
- | |**BTC**|**Price BTC**|**Revenues**|**O&M Costs**| |**O&M % S/VALUE**
+ ·| |**BTC**|**Price BTC**|**Revenues**|**O&M Costs**| |**O&M % S/VALUE**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
  |S9|54.26|7,700.00|417,790.37|83,558.07| |20,00%
  |L3|193.78|7,700.00|1,492,108.48|298,421.70| | 
@@ -248,7 +250,7 @@ CryptoSolarTech Token does not offer the holder a minimum return on assets or a 
 The possession of the CST tokens will entail the right of access to the rental of a fraction of the cryptocurrency mining farm that will be located in an industrial warehouse in Malaga (Spain) enabled for this activity, and the location of the photovoltaic plant being situated in the province of Seville (Spain).
 
 
-A CryptoSolarTech `in situ´ service center will also be enabled, which will minimize the downtime of a mining equipment throughout a mainteinance phase, minimizing down-time (93.5% of minimum), thus achieving a much more efficient mining operation.
+A CryptoSolarTech 'in situ' service center will also be enabled, which will minimize the downtime of a mining equipment throughout a mainteinance phase, minimizing down-time (93.5% of minimum), thus achieving a much more efficient mining operation.
 
 ### 4.2 CST TOKEN SALE
 
@@ -284,7 +286,7 @@ Payments will be available in ETH, BTC and EUR. The CST / ETH, CST / BTC, CST / 
 Team members will keep 15% of the total amount of the sale and prices will be granted from a 50% discount to a 0% discount throughout the different phases of the token sale, until the end of the TGE. The price of each CryptoSolarTech token or CST is € 0.07 / token, and will be offered from € 0.05 / token to € 0.10 / token. Therefore, the initial rate depends on the day of acquisition.
 
 TOKEN DISTRIBUTION
- |**Total (€)**|**Total Amount (CST)**|**%**
+·|**Total (€)**|**Total Amount (CST)**|**%**
 :-----:|:-----:|:-----:|:-----:
 Project development|57,120,000.00|1,008,000,000.00|80.00%
 Team / Bounties|10,710,000.00|189,000,000.00|15.00%
@@ -536,3 +538,43 @@ All processes related to AML / KYC will be developed prior to the ICO.
 ## 7.1 ROADMAP
 
 ![Roadmap](https://www.dropbox.com/s/48zmkxlx1zizo5i/screenshot-cryptosolartech.org-2018.08.24-12-12-31.png)
+
+### 7.2 FUTURE PERSPECTIVES
+
+- PERSPECTIVE AND DEVELOPMENT OF THE TOKENIZING ECOSYSTEM.
+
+There will be continuity in the future growth of CryptoSolarTech. The key initiative will be the progressive tokenization of its ecosystem in the Blockchain. This will be through the TGE (Tokens Generator Event), by the token issuance. Allowing CryptoSolarTech to save on costs over time and, as a consequence, achieve the desired position at the technological vanguard. Thus, revolutionizing the Solar-Mining sector (SMS) and developing the CST model whose token will be used for different purposes depending on each need and objective.
+
+- SYSTEM TOKENIZATION
+
+The CryptoSolarTech ecosystem model will strengthen the community as well as facilitate, accelerate and support national and international growth. This results in, providing an essential long-term union and the necessary resources in the short term. Decentralization of the ecosystem will reduce operating costs over time.
+
+CST involves the creation of a collaborative system that can be adopted by any operator of solar and mining services. This entails those, especially who use the CST token as an instrument.
+
+Once the TGE is completed, the company will anticipate the following phases to incorporate the CryptoSolarTech business model with tokenomics.
+
+These mining machines will be rented according to the plans and current general conditions on the start date, as well as in proportion to the tokens owned in relation to the number of tokens issued in the TGE. The holders will pay a rent for entering the mining program and, as possessors of tokens, they will receive a bonus depending on the number of tokens they have.
+
+The mining facility will begin to mine a portfolio of cryptocurrencies. CST token holders will chose between all cryptocurrency options in the mining pool starting off with their personalized portfolio or, on the other hand, select the team’s edit portfolio based on market spot price cryptocurrency algorithms in the market. There are, mined from a pre-designed portfolio management that will be continuously operative until the expiration period of itself.
+
+The rent of the mining plant will consist of 20.00% of the total revenues in crypto assets and will be paid in the same crypto asset that the owner will receive according to the power that has been acquired. The remaining amount of crypto assets will be granted to the owner but without the proportional costs of mining them. With the option the CryptoSolarTech program offers, this net amount of cryptocurrencies will be settled according to the mining plan chosen on the platform, and it will be automatically sent to the addresses of Ethereum Wallets indicated by the owner.
+
+A secondary market will be organized by an Exchange to be able to trade the tokens and these can be aquired by new owners.
+
+The Token value will be linked to the value of the CST network (network value tokens) depending on the success of the mining plant for each reward block by block. For this, there will be a contract settlement that will depend, again, on the plan chosen in the platform.
+
+### 7.3 ACTION PLAN
+
+- Private Sale: From 16th of April 2018 until the end of April 2018.
+
+- Public Sale: From the end of the private sale until July 2018.
+
+.|**Period of Sales**|**nº Tokens**|**%**
+:-----:|:-----:|:-----:|:-----:
+Founders| |252,000,000.00|20.00%
+Private Sale| |210,000,000.00|16.67%
+PHASE 1|May 01st - May 15th, 2018|210,000,000.00|16.67%
+PHASE 2|May 15th - May 31st, 2018|210,000,000.00|16.67%
+PHASE 3|May 31st - June 15th, 2018|210,000,000.00|16.67%
+PHASE 4|June 15th - July 14th, 2018|168,000,000.00|13.33%
+Token Sale| |1,260,000,000.00|100.00%
