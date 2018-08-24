@@ -412,9 +412,10 @@ The operation of the platform is described here below:
 
 In the CryptoSolarTech platform, the interfaces will monitor the mining activities individually, choosing between the algorithms selected from the different cryptocurrencies (SHA256 for Bitcoin or Bitcoin Cash, SCRYPT for Litecoin or Verge, GPU for Ethereum or Ethereum Classic, XII for Dash among others) or choosing between the different CryptoSolarTech custom mining plans offered at the investor’s choice for its rental.
 
-· | | | |**ALGORITHM SELECT**| | | | | | 
+**ALGORITHM SELECT**
+
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
-SHA256| | |SCRYPT| | |XII| | |GPU| 
+SHA256| | |SCRYPT| | |XII| | |GPU| ·
 Bitcoin|BTC| |Litecoin|LTC| |Dash|DASH| |Ethereum|ETH
 Bitcoin Cash|BCH| |Game Credits|GAME| |Cannabiscoin|CANN| |Expanse|EXP
 Peercoin|PPC| |Digibyte|DGB| |Startcoin|START| |Metaverse|ETP
