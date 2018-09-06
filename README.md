@@ -308,20 +308,6 @@ To ease potential expansion, team members will hold 5% of the total token supply
 
 This token allocation percentage will be divided between the team bonuses and the current bounties.
 
-The blocking periods for the team´s allocation will be fractioned as follows:
-
--10% of the tokens will not be subject to lock-up
--45% of the tokens will have a lock-up period of 12 months
--40% of the tokens will have a lock-up period of 18 months
--5% of the tokens will have a lock-up period of 36 months
-
-The blocking periods for the Legal, Advisors and Marketing agencies allocation will be governed as follows:
-
--90% of the Legal, Advisors and Marketing tokens will be immediately granted to the distribution of the tokens at the end of the token sale.
--10% of Advisors´ tokens will have a 6-month lock-up period.
-
-During the private sale, several blocking periods could be determined in a manner similar to those established for the team.
-
 • INVESTMENT PLANTS
 
 Initially, the location of the solar plant will be in the province of Seville (Spain) and the mining exploitation will be in Malaga (Spain) in an industrial warehouse enabled for this activity.
